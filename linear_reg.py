@@ -57,22 +57,3 @@ print("The Mean Squared Error on the Test set is:\t{:0.1f}".format(mse(y_test, y
 
 print("The R2 score on the Train set is:\t{:0.3f}".format(r2_score(y_train, y_train_pred)))
 print("The R2 score on the Test set is:\t{:0.3f}".format(r2_score(y_test, y_test_pred)))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
